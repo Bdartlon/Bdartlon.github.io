@@ -1,5 +1,5 @@
 # Temporary public github for the HB.js VSCode Extension
-
+Soon this repository will be relocated to https://github.com/BroadcomMFD/hbjs-vscode-extension
 # HB.js
 
 <!-- We can generalize this overview as more functionality is added -->
