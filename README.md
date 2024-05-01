@@ -1,3 +1,5 @@
+#Temporary public github for the HB.js VSCode Extension
+
 # HB.js
 
 <!-- We can generalize this overview as more functionality is added -->
